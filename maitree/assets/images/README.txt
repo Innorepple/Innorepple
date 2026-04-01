@@ -1,1 +1,0 @@
-Images for the app can go here. Example: home background, illustrations, etc.
